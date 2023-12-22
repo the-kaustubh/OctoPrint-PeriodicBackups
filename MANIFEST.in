@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_PeriodicBackups/templates *
+recursive-include octoprint_PeriodicBackups/translations *
+recursive-include octoprint_PeriodicBackups/static *
